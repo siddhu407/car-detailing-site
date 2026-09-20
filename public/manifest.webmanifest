@@ -1,0 +1,16 @@
+{
+  "name": "Dolphin Car Spa — Ceramic Coating & Detailing Studio",
+  "short_name": "Dolphin Car Spa",
+  "description": "Premium ceramic coating, car detailing, and accessories in Sunkadakatte, Bengaluru.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

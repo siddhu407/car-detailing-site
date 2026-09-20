@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e14"/>
+      <stop offset="100%" stop-color="#141a24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="950" cy="315" r="280" fill="url(#accent)" opacity="0.08"/>
+  <circle cx="950" cy="315" r="180" fill="url(#accent)" opacity="0.06"/>
+  <text x="80" y="280" font-family="Sora, sans-serif" font-size="72" font-weight="800" fill="#f1f5f9">Dolphin Car Spa</text>
+  <text x="80" y="340" font-family="Inter, sans-serif" font-size="32" font-weight="500" fill="#2dd4bf">Ceramic Coating &amp; Detailing Studio</text>
+  <text x="80" y="400" font-family="Inter, sans-serif" font-size="24" fill="#94a3b8">Sunkadakatte, Magadi Main Road, Bengaluru</text>
+  <rect x="80" y="440" width="240" height="6" rx="3" fill="url(#accent)"/>
+  <text x="80" y="500" font-family="Inter, sans-serif" font-size="20" fill="#64748b">4.6 ★ · 132 Google Reviews</text>
+</svg>
